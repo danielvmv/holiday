@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Jolidays - Intercambio Familiar 2026",
+  title: "Jolidays - Vallarta 2026",
   description: "Intercambio de regalos navideño - Riviera Nayarit, diciembre 2026",
 };
 
