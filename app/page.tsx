@@ -57,7 +57,7 @@ export default function HomePage() {
         {/* Countdown section */}
         <section className="text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-[#1F2937] mb-4 font-[family-name:var(--font-display)]">
-            Cuenta Regresiva al Intercambio
+            Cuenta Regresiva al Vallartazo!!
           </h2>
           <p className="text-lg text-[#4B5563] mb-8">
             Nochebuena 2026 • 24 de diciembre, 8:00 PM
